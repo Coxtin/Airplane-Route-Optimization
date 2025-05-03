@@ -1,0 +1,13 @@
+In aceasta aplicatie exista 2 versiuni :
+	-O versiune in care am incercat realizarea acestui proiect in app designer pentru a putea introduce o interactivitatea mai "detaliata", dar care nu am reusit sa o ducem la bun sfarsit.
+	-O versiune in care am realizat proiectul intr-un fisier, care este apelata in linia de comanda
+
+Acest proiect a fost realizat impreuna cu 3 colegi.
+
+Proiectul consta in realizarea unei optimizari in cadrul zborurilor avioanelor
+Aeroporturile sunt citite dintr-un fisier .kml (realizat cu google.com/maps)
+Aplicatia foloseste diversi algoritmi pentru optimizarea rutelor avioanelor de marfa catre diferite aeroporturi.
+
+
+Pentru rularea acestei aplicatii (proiect.m), se apeleaza in linia de comanda : proiect (este necesar ca fisierul aeroporturi.kml sa fie in acelasi folder)
+Pentru vizualizarea aplicatiei aeroporturi.mlapp, este necesar ca fisierul aeroporturi.kml sa fie in acelasi folder.

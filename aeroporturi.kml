@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>aeroporturi</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Strat fără titlu</name>
+      <Placemark>
+        <name>Aeroportul Newcastle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6931282,55.0393457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internaţional John Lennon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.8523459,53.3351164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Londra City</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0520619,51.5051411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Glasgow</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4345433,55.8700415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Edinburgh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3607946,55.9471784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Bristol</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.7171685,51.3830526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul East Midlands</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.332134,52.829374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional din Cardiff</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3428489,51.3971182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Copenhaga</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.6476789,55.6120128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Manchester</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.277162,53.3553569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul din Dublin</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -6.2573755,53.425632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Waterford</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.080912,52.18856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Connemara</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.4695141,53.2322156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Sligo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.5989884,54.27875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul City of Derry</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.1558125,55.0396753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Kerry</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.5368925,52.1813983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donegal Airport (Aerphort Dhún Na nGall)</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.3416556,55.0379106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Edinburgh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3607946,55.9471784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Inverness</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0487033,57.5432757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Aberdeen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.200215,57.203715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Perth</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.3707133,56.4357481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Glasgow</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4345433,55.8700415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Campbeltown</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.662486,55.437094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATC Prestwick Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.5830348,55.5020086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Glasgow Prestwick</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.592294,55.5098091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Fife</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.2187317,56.1842648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strathaven Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1086486,55.6790027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Lisabona</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -9.1319758,38.7788454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Francisco Sá Carneiro</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -8.6806638,41.2473992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Faro International Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.9705537,37.0165746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Madeira</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -16.774145,32.6975155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Porto Santo</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -16.3454645,33.0701396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroporto Santa Maria</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -25.1655119,36.9742664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Ioan Paul al II-lea</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -25.7103849,37.7493461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Lajes</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -27.0869167,38.7539265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Évora</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.8878956,38.5324676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beja Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -7.9392894,38.0637835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Madrid-Barajas</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5642764,40.4895147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Malaga</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.4938696,36.6767427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Alicante-Elche</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5622132,38.284924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Girona-Costa Brava</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.7632421,41.9026788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Scholes din Galveston</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1313311,37.8044768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Barcelona-El Prat</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.0800095,41.2983405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Almería</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.3704731,36.8447211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Gran Canaria</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -15.3872261,27.9292098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Federico García Lorca</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7779569,37.1877458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul din Valencia</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4809144,39.4880129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Henri Coandă București</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.0949265,44.5668635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Avram Iancu Cluj-Napoca</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.688002,46.7824045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Brașov-Ghimbav</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            25.5199797,45.7027763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Iași</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.6178436,47.180666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Aurel Vlaicu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.0815048,44.4961235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Sibiu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            24.0944402,45.7890745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Satu Mare</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            22.8812569,47.7064638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Aeroportul Internațional "George Enescu" Bacău]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.9124079,46.5190919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Maramureș</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.4665513,47.6605139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Craiova</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            23.8785911,44.3127651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Charles de Gaulle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.5507855,49.0078827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Lyon-Saint-Exupéry</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.088767,45.7234154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Le Bourget</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.4383628,48.9622569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Paris-Orly</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3732304,48.7299182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Bordeaux-Mérignac</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7129039,44.82968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Coasta de Azur Nisa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.2142012,43.6598704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Marseille Provence</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.214735,43.4383724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Beauvais-Tillé</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.1112384,49.4553491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul internațional Toulouse-Blagnac</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.36449,43.6313458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Perpignan–Rivesaltes</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.8684733,42.7409543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul München Franz Josef Strauß</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.7883625,48.3539867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Berlin Brandenburg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.5010472,52.3649645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Frankfurt</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.5518391,50.0353788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Düsseldorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.7685546,51.2874675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul internațional Hamburg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.9957995,53.6318994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Köln-Bonn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.139732,50.8668073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Friedrichshafen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.5122112,47.672204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul din Dortmund</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6120128,51.5173204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Nuremberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.0756209,49.4965735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul din Stuttgart</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.2073536,48.6858082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Orio al Serio</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.7074055,45.668978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Leonardo da Vinci</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.2519211,41.8034632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional din Napoli</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.2891552,40.8846816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internațional Milano-Malpensa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.7282345,45.6227139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Marco Polo din Veneția</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.3466295,45.5046844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Bologna Guglielmo Marconi</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2878488,44.5345288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Verona Villafranca</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.885772,45.3971124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Sant’Angelo Treviso</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1944795,45.6498881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abruzzo Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.1826999,42.4309477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aeroportul Internaţional Pisa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.3942843,43.6869635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
